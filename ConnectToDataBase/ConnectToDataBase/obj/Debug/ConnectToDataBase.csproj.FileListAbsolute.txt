@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\Projects\C#\WINDOWS_FORMS\ConnectToDataBase\ConnectToDataBase\bin\Debug\Database.mdf
+C:\Users\ASUS\Desktop\Projects\C#\WINDOWS_FORMS\ConnectToDataBase\ConnectToDataBase\bin\Debug\Database_log.ldf
+C:\Users\ASUS\Desktop\Projects\C#\WINDOWS_FORMS\ConnectToDataBase\ConnectToDataBase\bin\Debug\ConnectToDataBase.exe.config
+C:\Users\ASUS\Desktop\Projects\C#\WINDOWS_FORMS\ConnectToDataBase\ConnectToDataBase\bin\Debug\ConnectToDataBase.exe
+C:\Users\ASUS\Desktop\Projects\C#\WINDOWS_FORMS\ConnectToDataBase\ConnectToDataBase\bin\Debug\ConnectToDataBase.pdb
+C:\Users\ASUS\Desktop\Projects\C#\WINDOWS_FORMS\ConnectToDataBase\ConnectToDataBase\obj\Debug\ConnectToDataBase.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Projects\C#\WINDOWS_FORMS\ConnectToDataBase\ConnectToDataBase\obj\Debug\ConnectToDataBase.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\Projects\C#\WINDOWS_FORMS\ConnectToDataBase\ConnectToDataBase\obj\Debug\ConnectToDataBase.Form1.resources
+C:\Users\ASUS\Desktop\Projects\C#\WINDOWS_FORMS\ConnectToDataBase\ConnectToDataBase\obj\Debug\ConnectToDataBase.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Projects\C#\WINDOWS_FORMS\ConnectToDataBase\ConnectToDataBase\obj\Debug\ConnectToDataBase.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Projects\C#\WINDOWS_FORMS\ConnectToDataBase\ConnectToDataBase\obj\Debug\ConnectToDataBase.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Projects\C#\WINDOWS_FORMS\ConnectToDataBase\ConnectToDataBase\obj\Debug\ConnectToDataBase.exe
+C:\Users\ASUS\Desktop\Projects\C#\WINDOWS_FORMS\ConnectToDataBase\ConnectToDataBase\obj\Debug\ConnectToDataBase.pdb
